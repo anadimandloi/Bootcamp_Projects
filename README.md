@@ -20,7 +20,7 @@ Some of the projects have been hosted on Heroku and the links are in this readme
 
 #### HP Simon Game
 
-> Yet another project to show my love for Harry Potter. This project is an online version of the famous pattern remembering Simon Game which I have made using HTML, CSS and JavaScript and modified by replacing the buttons by Hogwartz Houses.It has been hosted using Github Pages. You can play the game[here](https://anadimandloi.github.io/) using a desktop.
+> Yet another project to show my love for Harry Potter. This project is an online version of the famous pattern remembering Simon Game which I have made using HTML, CSS and JavaScript and modified by replacing the buttons by Hogwartz Houses.It has been hosted using Github Pages. You can play the game [here](https://anadimandloi.github.io/) using a desktop.
 
 #### To-Do List
 >I made this project using Node, Express and MongoDB and deployed it using Heroku. I have made some changes to the design and kept it smart. You can check it out [here](https://limitless-shelf-31036.herokuapp.com/).
